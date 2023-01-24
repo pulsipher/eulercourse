@@ -8,5 +8,5 @@ The files are as follows:
 
 To try these out without having to download anything, please go to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pulsipher/eulercourse/master). 
 
-Alternatively, you can use [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pulsipher/eulercourse/blob/master/exercises.ipynb) to assess `exercises.ipynb`.
+Alternatively, you can use [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pulsipher/eulercourse/blob/master/exercises.ipynb) to access `exercises.ipynb`.
  
